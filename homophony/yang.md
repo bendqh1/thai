@@ -4,3 +4,6 @@
 * ย่าง (y/hangg) — grill
 * อย่าง (yhang) — things
 * หยั่ง (yhaanngg) — deep understanding
+
+* ยั่งยืน (yangyuun) — sustainable, lasting
+* ยางไม้ (yangmaii) — timber, tree sapwood
