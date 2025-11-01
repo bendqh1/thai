@@ -7,4 +7,4 @@
 
 ## Notes
 
-* กา (ga but often spoken as ka) – **crow**; also “**mark**” (verb)
+* กา (ga but often spoken as ka) – **crow**; also **"mark"** (verb)
