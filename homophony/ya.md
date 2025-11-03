@@ -4,4 +4,8 @@
 * ย่า (ya\) — paternal grandmother
 * อย่า (ya) — do not
 
-* ญาติ (yyhaa) — relatives
+## Notes
+
+May sound similar:
+
+* ญาติ (yyhaad) — relatives
