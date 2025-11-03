@@ -5,4 +5,4 @@
 
 ## Notes
 
-* ผง (peng) — flour, is often changed with ผง for powder.
+* ผง (peng) — flour, is often used interchangebly with ผง for powder.
