@@ -1,4 +1,4 @@
-| Thai  | Romanization | Meaning                    | Notes |
+| Thai  | Phonetic | Meaning                    | Notes |
 |-------|-------------|----------------------------|-------|
 | ต้น    | ton         | tree, beginning, origin    |       |
 | ตอน    | ton         | part, section, episode     |       |
