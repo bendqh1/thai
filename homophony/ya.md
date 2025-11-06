@@ -1,8 +1,10 @@
-* ยา (yaa) — drug
-* ย้ะ (yeah) — yeah
-* ญ้า (yyha) — grass
-* ย่า (ya\) — paternal grandmother
-* อย่า (ya) — do not
+| Thai | Phonetic | Meaning | Notes |
+|------|----------|---------|-------|
+| ยา | yaa | drug |  |
+| ย้ะ | yeah | yeah |  |
+| ญ้า | yyha | grass |  |
+| ย่า | ya\ | paternal grandmother |  |
+| อย่า | ya | do not |  |
 
 ## Notes
 
