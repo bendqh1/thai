@@ -8,9 +8,15 @@
 | ไหม้ | mhai/ | burn, to burn |  |
 | ไม | Mai | Mai (name) |  |
 | ใหม่ | mai | new |  |
-| ไมล์ | – | mile |  |
-| ม้าย | ma/ai | horse | Southern dialect or informal variant of ม้า |
 | ม่าย | ma^ai | widow / widower |  |
 | หมาย | ma˅ai | to mean, to intend, number |  |
 | เหม่ย | Mei | used for Chinese name 美 Me˅i |  |
 | เมย์ | May | common Thai transliteration for the English name “May” |  |
+| ไมล์ | – | mile |  |
+
+## Notes
+
+A combination example: The new silk is burnt, isn't it?
+
+* ไหม — ใหม่ - ไหม้ / ไม่ \
+    * new,silk,burnt,not?
