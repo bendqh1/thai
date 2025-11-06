@@ -7,7 +7,6 @@
 | อย่าง | yhang | things |  |
 | หยั่ง | yhaanngg | deep understanding |  |
 
-
 ## Notes
 
 These words may sound similar:
