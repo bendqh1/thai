@@ -12,5 +12,5 @@
 | ม้าย | ma/ai | horse | Southern dialect or informal variant of ม้า |
 | ม่าย | ma^ai | widow / widower |  |
 | หมาย | ma˅ai | to mean, to intend, number |  |
-| เหม่ย | – | used for Chinese name 美 Mei˅ |  |
-| เมย์ | – | common Thai transliteration for the English name “May” |  |
+| เหม่ย | Mei | used for Chinese name 美 Me˅i |  |
+| เมย์ | May | common Thai transliteration for the English name “May” |  |
