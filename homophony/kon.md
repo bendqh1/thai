@@ -1,8 +1,6 @@
 | Thai | Phonetic | Meaning | Notes |
 |------|----------|---------|-------|
-| ก | a | a |  |
-| ก | a | a |  |
-| ก | a | a |  |
-| ก | a | a |  |
-| ก | a | a |  |
-| ก | a | a |  |
+| คน | kon | people |  |
+| ค้น | khon | search |  |
+| ขน | kohn\ | general body hair or fur (and often also feathers) |  |
+| ฆ้อน | koh/n | hammer |  |
