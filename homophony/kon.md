@@ -4,3 +4,7 @@
 | ค้น | khon | search |  |
 | ขน | kohn\ | general body hair or fur (and often also feathers) |  |
 | ฆ้อน | koh/n | hammer |  |
+
+## Notes
+
+* นมข้นหวาน means "condensed milk".
