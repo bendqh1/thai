@@ -1,5 +1,5 @@
 | Thai  | Pronunciation | Meaning           | Notes |
 | ----- | ------------- | ----------------- | ----- |
-| รัก   | rák           | love              |       |
-| ราก   | rák           | root              |       |
-| รักษ์ | rák           | cherish, preserve |       |
+| รัก   | rak/           | love              |       |
+| ราก   | ra—k           | root              |       |
+| รักษ์ | ragk           | cherish, preserve |       |
