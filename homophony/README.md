@@ -1,5 +1,3 @@
-Table structure:
-
 | Thai | Phonetic | Meaning | Notes |
 |------|----------|---------|-------|
 | ก | a | a |  |
