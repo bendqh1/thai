@@ -1,9 +1,8 @@
 | Thai | Phonetic | Meaning | Notes |
 |------|----------|---------|-------|
-| โข | kho | grand / large |  |
 | ขอ | kho/ | may I (or may I have, something material) |  |
-| เคาะ | kho | to knock / tap |  |
 | คอ | kho | neck |  |
+| เคาะ | kho | to knock / tap |  |
 | โค | kho | cow | colloquial: วัว |
 | ค้อ | kho | a kind of tree (Shorea) |  |
 
@@ -11,5 +10,5 @@
 
 `ก` may sound like `k` in some instances of the following words:
 
-* **กอ (ko)** — cluster / bush
 * **เกาะ (ko)** — island
+* **กอ (ko)** — cluster (mostly in the context of thin trees like Bamboo)
