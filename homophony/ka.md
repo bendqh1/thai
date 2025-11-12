@@ -1,5 +1,6 @@
 | Thai | Phonetic | Meaning | Notes |
 |------|----------|---------|-------|
+| คา | kaa | legs |  |
 | ค่า | ka/ | cost, price |  |
 | ค้า | ka | to trade, to do business |  |
 | คา | kaa or just ka | to stick, remain |  |
