@@ -7,6 +7,7 @@
 | คะ | ka | polite particle (female speaker) |  |
 | ค่ะ | ka/ | polite particle (female speaker, tendency to be formal) |  |
 | ข่า | – | galangal (herb) |  |
+| ฆ่า | – | kill | the letter Kho Ra Khang is sometimes considered obsolete |
 
 ## Notes
 
