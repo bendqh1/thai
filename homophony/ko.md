@@ -1,6 +1,7 @@
 | Thai | Phonetic | Meaning | Notes |
 |------|----------|---------|-------|
-| ขอ | kho/ | may I (or may I have, something material) |  |
+| ขอ | kho\ | may I (or may I have, something material) |  |
+| ข้อ | kho/ | point (mindwise) | the term does with philosophy, math, science, rhetoric, etc. |
 | คอ | kho | neck |  |
 | เคาะ | kho | to knock / tap |  |
 | โค | kho | cow | colloquial: วัว |
