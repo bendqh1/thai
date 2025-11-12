@@ -3,7 +3,7 @@
 | คา | kaa | legs |  |
 | ค่า | ka/ | cost, price |  |
 | ค้า | ka | to trade, to do business |  |
-| คา | kaa or just ka | to stick, remain |  |
+| คา | kaa or just ka | to stick with, to remin on | "he was just right on his motorcycle when the accident happened" |
 | คะ | ka | polite particle (female speaker) |  |
 | ค่ะ | ka/ | polite particle (female speaker, tendency to be formal) |  |
 | ข่า | – | galangal (herb) |  |
