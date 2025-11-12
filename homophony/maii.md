@@ -18,5 +18,5 @@
 
 A combination example: The new silk is burnt, isn't it?
 
-* ไหม — ใหม่ - ไหม้ / ไม่ \
+* ไหม — ใหม่ - ไหม้ / ไหม —
     * new,silk,burnt,not?
