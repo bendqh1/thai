@@ -8,4 +8,4 @@
 
 ## Nots
 
-* The word `หาย` can appear in two different structuress, for example `ขอให้คุณหายเร็ว ๆ นี้` versus `ฉันทํากระเป๋าหาย`.
+* The word `หาย` can appear in two different structuress, for example `ขอให้หายเร็ว ๆ นี้` versus `ฉันทํากระเป๋าหาย`.
