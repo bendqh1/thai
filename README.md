@@ -3,7 +3,7 @@
 * Rising: `/`
 * Falling: `\`
 * Rising-falling: `^`
-* Falling-falling: `˅`
+* Falling-rising: `˅`
 * Middle (continuous): `—`
 
 | Thai | Meaning | Notes |
