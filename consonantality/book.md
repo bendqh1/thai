@@ -1,5 +1,6 @@
 Some Thai phrases can be very consonental.
 
+* เครื่องอบผ้า
 * พฤศจิกายน
 * ตู้กดน้ำ
 * กดเงิน
