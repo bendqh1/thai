@@ -1,7 +1,4 @@
 | Thai | Phonetic | Meaning | Notes |
 |------|----------|---------|-------|
-| ก | a | a |  |
-| ก | a | a |  |
-| ก | a | a |  |
-| ก | a | a |  |
-| ก | a | a |  |
+| พิชิต | pichit | to win or to conquer something |  |
+| พิจิตร | pijhit | a provice in Thailand |  |
