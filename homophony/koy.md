@@ -3,7 +3,7 @@
 | ข่อย  | khoi\          | cassava                          |       |
 | ข่อย  | khoi          | “I/me” in Isan/Lao (pronoun)     |       |
 | คอย   | khoii         | be on guard                |       |
-| ค่อย   | khoii\         | gradually or step by step                |       |
+| ค่อย   | khoii\         | gradually or step by step                | One may say แล้วค่อย instead of แล้วก็ |
 | คแยน์ | coin         | (loanword/slang, usually a name) |       |
 
 ## Notes
