@@ -1,0 +1,9 @@
+| Thai | Phonetic | Meaning | Notes |
+|------|----------|---------|-------|
+| เก่า | ggaww/ | old (object, but not people in plural) | old friend or old chair |
+| แก่ | ge | old people in plural | kaw pen khon ge (he is old people) |
+| กาว | ggaaww | glue |  |
+
+## Notes
+
+* More data at `/thai/blob/main/nuances/เก่า_and_แก่.md`.
