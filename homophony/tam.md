@@ -11,6 +11,8 @@
 
 ## Notes
 
+| Thai | Phonetic | Meaning | Notes |
+|------|----------|---------|-------|
 | ตำรวจ (first syllable) | tam- | police |  |
 | ตำแหน่ง (first syllable) | tam- | position/post |  |
 | แต้ม | dtaem | point/score |  |
