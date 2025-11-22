@@ -1,5 +1,6 @@
 | Thai | Phonetic | Meaning | Notes |
 |------|----------|---------|-------|
+| ถ้ำ | ttam | cave |  |
 | ทำ | tham | to do/make |  |
 | ตำ | tam | to pound (e.g., papaya salad) |  |
 | ต่ำ | tam | low | often used to describe the word minimal |
