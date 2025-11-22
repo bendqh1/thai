@@ -2,7 +2,7 @@
 |------|----------|---------|-------|
 | ฉัน | chann | I |  |
 | ชั้น | chan | floor (level) | in multi-level buildings |
-| ชาน | chan | the family name Chan | one of the most common family names in the world, derived from the Turko-Mongol word Khan |
+| ชาน | chan | the family name Chan | one of the most common family names in the world, derived from the Turko-Mongol word Khan, spread  by the arrival of Turko-Mongol tribes to almost everywhere in the so called "old world" including the depths of China. |
 
 ## Notes
 
