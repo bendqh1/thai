@@ -5,7 +5,7 @@
 | ขน | kohn\ | general body hair or fur (and often also feathers) |  |
 | ข้น | konh | thick/dense/concentrated/creamy | normally in the context of food |
 | ฆ้อน | koh/n | hammer |  |
-| เขิน | k(o)en | shy | may sound more like `ken` depends on the pronunciation |
+| เขิน | k(o)en | shy | may sound more like `ken` depends on the pronunciation. One might say `ฉันเขินเมื่อพูดในสาธารณะ` meaning "I am shy when speaking in public" |
 
 ## Notes
 
