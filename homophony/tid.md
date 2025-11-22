@@ -1,0 +1,9 @@
+| Thai | Phonetic | Meaning | Notes |
+|------|----------|---------|-------|
+| ติด | tid | Works (machine-context) |  |
+| ติด | tid | attach (fasten) something to something |  |
+| ติด | tid | glue something to something |  |
+| ติด | tid | enroll (sign up) |  |
+| ติด | tid | follow (keep up) with something |  |
+| ติด | tid | being addicted to something | both in a slang sense or in a serious sense |
+| ติด | tid | being stuck somewhere or a situation |  |
