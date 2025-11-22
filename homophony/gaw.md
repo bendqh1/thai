@@ -9,4 +9,4 @@
 ## Notes
 
 * More data at `/thai/blob/main/nuances/เก่า_and_แก่.md`.
-* 
+* แฟนเก่า means ex boyfriend or ex girlfriend.
