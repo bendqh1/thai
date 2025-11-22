@@ -4,3 +4,7 @@
 | เสือ | su(a) | tiger |  |
 | เสื่อ | suea | mat |  |
 | ซื้อ | su(e) | buy |  |
+
+## Notes
+
+* Rare or archaic for "communication" or "media": `สื่อ`.
