@@ -1,4 +1,5 @@
 | Thai | Phonetic | Meaning | Notes |
 |------|----------|---------|-------|
-| พืน | puun | grid | classifier for grid-like objects, like blankets |
-| พื้น | puu˅n | floor |  |
+| ผืน | phuuun | classifier for grid like objects like blankets and mats |  |
+| ผื่น | puuun/ | a |  |
+| พื้น | pphuuu˅n | a |  |
