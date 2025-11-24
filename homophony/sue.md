@@ -5,7 +5,3 @@
 | เสื้อ | su^a| shirt | |
 | เสื่อ | Suuaa\ | mat |  |
 | เสือ | su˅(a) | tiger |  |
-
-## Notes
-
-* Rare or archaic for "communication" or "media": ``.
