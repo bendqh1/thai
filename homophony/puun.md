@@ -6,6 +6,6 @@
 
 ## Notes
 
-The `pun` words and the `sue` words connect:
+These words and the `sue` words connect:
 
 * ผม อยาก ซื้อ เสื่อ หนึ่ง ผืน
