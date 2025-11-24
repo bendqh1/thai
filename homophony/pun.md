@@ -8,4 +8,4 @@
 
 The `pun` words and the `sue` words connect:
 
-* ผม อยาก ซื้อ Suu\aa หนึ่ง ผืน
+* ผม อยาก ซื้อ เสื่อ หนึ่ง ผืน
