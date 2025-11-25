@@ -1,9 +1,9 @@
 ## Tone marks
 
-* Rising: `/`
-* Falling: `\`
-* Rising-falling: `^`
-* Falling-rising: `˅`
+* Up: `/`
+* Down: `\`
+* Up-Down: `^`
+* Down-Up: `˅`
 * Middle (continuous): `—`
 
 | Thai | Meaning | Notes |
