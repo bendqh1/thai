@@ -1,6 +1,6 @@
 | Thai | Phonetic | Meaning | Notes |
 |------|----------|---------|-------|
-| ติด | tid | Works (machine-context) |  |
+| ติด | tid | works (machine-context) |  |
 | ติด | tid | attach (fasten) something to something |  |
 | ติด | tid | glue something to something |  |
 | ติด | tid | enroll (sign up) |  |
