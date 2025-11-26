@@ -8,7 +8,7 @@
 
 The Thai language has many words that are **phonetically very similar or identical** (PVSIs).
 
-PVSIs uniqeness is distinguished by context and or by tone.
+PVSIs uniqeness is distinguished by context andor by tone.
 
 One might call these words "pseudo homophones", whilst some are actually true homophones (pronunced exactly the same but have a different meaning).
 
