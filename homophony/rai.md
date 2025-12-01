@@ -6,3 +6,7 @@
 | ราย | raii | item, individual, |  |
 | ราย | raii | report |  |
 | ร้าย | ra˅ii | evil, bad |  |
+
+## Notes
+
+* The term ไร้จรรยาบรรณ (ra˅i-jhanya-bhann) means a person who is unethical in his work especially because he thinks mostly about money and not about the customer. That person lacks ethics in work.
