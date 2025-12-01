@@ -6,10 +6,10 @@
 | ก | a | a |  |
 | ก | a | a |  |
 
-The Thai language has many words that are **phonetically very similar or identical** (PVSIs).
+The Thai language has many **phonetically very similar or identical words** (`PVSIW`s).
 
-PVSIs uniqeness is distinguished by context andor by tone.
+`PVSIW`s uniqeness is distinguished by context andor by tone.
+
+I have identified approximately 80 groups of `PVSIW`s in Thai.
 
 One might call these words "pseudo homophones", whilst some are actually true homophones (pronunced exactly the same but have a different meaning).
-
-I have identified approximately 80 groups of PVSIs in Thai.
