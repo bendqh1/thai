@@ -1,6 +1,6 @@
 | Thai | Phonetic | Meaning | Notes |
 |------|----------|---------|-------|
 | ไทย | thai | Thai |  |
-| ใต้ | tthai | falling or under |  |
+| ไต่ | tthaii/ | to climb | tthaii/ tonmaii (climb the tree!) |
+| ใต้ | tthai\ | falling or under |  |
 | ตาย | ttaii | to die |  |
-| ไต่ | tthaii/ | to climb |  |
