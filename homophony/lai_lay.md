@@ -4,5 +4,8 @@
 | ไหล | lhaii | flow |  |
 | ลาย | llay | pattern |  |
 | หลาย | hllayy | many |  |
-| เลย์ | ley | the brand ley | often pronounced as "le" due to the karan (อ์) |
+
+## Notes 
+
+* A similar word is for the snack brand ley (เลย์) often pronounced as "le" due to the karan (อ์) in the last letter Yo Yak.
 
