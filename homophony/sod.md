@@ -2,4 +2,4 @@
 |------|----------|---------|-------|
 | สด | sod | fresh |  |
 | สอด  | so—od | insert, slip-in | |
-| โสด | so| so—od\ | single |
+| โสด | so—od\ | single | relationship |
