@@ -3,7 +3,7 @@
 | ผง | pong | powder |  |
 | ผ่อง | pong\ | bright |  |
 | ผอง | po-o^ng | group, all together | used for narration, not for self description |
-| พงษ์ | phong\ | the name Phong |  |
+| พงษ์ | phong\ | the name Phong | part of the name พร้อมพงษ์ |
 
 ## Notes
 
