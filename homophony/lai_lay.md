@@ -4,3 +4,5 @@
 | ไหล | lhaii | flow |  |
 | ลาย | llay | pattern |  |
 | หลาย | hllayy | many |  |
+| เลย์ | ley | the brand ley | often pronounced as "le" due to the karan (อ์) |
+
