@@ -1,5 +1,6 @@
 | Thai | Phonetic | Meaning | Notes |
 |------|----------|---------|-------|
+| สั่น | san | to tremble, vibrate, or shake |  |
 | สั้น | sa˅n | short |  |
 | สาน | sa—an | to weave, interwine, or connect |  |
 | ศาล | ssa—an | shrine, hall, or court |  |
