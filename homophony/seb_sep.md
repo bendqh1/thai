@@ -5,4 +5,4 @@
 
 ## Notes
 
-* แสบตา means "it hurts in the eyes" like when lemon juice contacts the eyes.
+* แสบตา means "it hurts in the eyes" like when lemon juice contacts the eyes or to describe onion cry.
