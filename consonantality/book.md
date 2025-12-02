@@ -7,4 +7,5 @@ Some Thai phrases can be very consonental.
 * ไม่ต้องถือถุงหลายใบเบบนี้
 * คืนเงินฉันมา
 * หงุดหงิด
+* อึดอัด == uncomfortable or ไม่สบายใจ
 * เสือเสื้อ
