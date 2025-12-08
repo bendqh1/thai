@@ -6,8 +6,6 @@ Rushing
 แรง
 Force
 
----
-
 ## คำอธิบาย versus การอธิบาย
 
 "การอธิบาย" refers more to the act of explaining, while "คำอธิบาย" means the explanation itself.
