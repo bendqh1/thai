@@ -50,3 +50,8 @@
 ## Clothe storage
 
 * ราวตากผ้า
+
+## Features
+
+* คุณสมบัติ -- koona-som-bat == features
+* วัตถุดิบ == ingredients
