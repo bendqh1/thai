@@ -1,3 +1,14 @@
+## Internal wall and external wall
+
+### Internal wall
+
+ผนัง
+
+### External wall
+กำแพง
+
+This words is similar to กำแพงเพชร
+
 ## reng and re_eng
 
 เร่ง
