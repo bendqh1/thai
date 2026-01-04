@@ -37,8 +37,9 @@
 |--------------------|-----------------|
 | ซอง                | Envelope        |
 | ถุง                 | Bag             |
-|  กระสอบ / ถุงใหญ่   | Large Bag / Sack|
-| กล่องเล็ก           | Small Box       |
+| กระสอบ / ถุงใหญ่   | Large Bag / Sack |
+| กระปุก             | very small plate or box, typically circular |
+| กล่องเล็ก           | Small Box        |
 | กล่อง               | Box             |
 | ภาชนะ               | Container       |
 | ถาด                 | Tray            |
