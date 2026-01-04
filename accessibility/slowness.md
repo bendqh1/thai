@@ -28,6 +28,8 @@ Don't say ช้าลงนะ because it's แปลกๆ
 
 ## Misc
 
+Movie subtitles are not transliteration == คำบรรยายหนังไม่ใช่การถอดเสียง
+
 ข้—าๆ หน่อยครับ
 
 Not common in Thai but can be understood
