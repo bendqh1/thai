@@ -1,5 +1,3 @@
-# Slowness in speaking
-
 ## Slow versus tea
 ช้า //// ////
 ช——า (tea)
