@@ -2,6 +2,11 @@
 
 ชี้
 
+## Throw
+
+* ทิ้ง
+* โยน
+
 ## Tie
 
 To tie in Thai
