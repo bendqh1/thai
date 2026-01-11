@@ -9,3 +9,8 @@ Some Thai phrases can be very consonental.
 * หงุดหงิด
 * อึดอัด == uncomfortable or ไม่สบายใจ
 * เสือเสื้อ
+
+## samak words
+
+* อาสาสมัคร == volunteer
+* รับสมัคร == accepting workers
