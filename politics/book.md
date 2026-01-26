@@ -1,0 +1,1 @@
+สากล == international
