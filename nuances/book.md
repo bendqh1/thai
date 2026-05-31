@@ -26,3 +26,8 @@ Force
 มัก often
 
 มาก very
+
+## Jagrayan and jagruwan
+
+จักรยาน 
+จักรวาล (ศูนย์กลางจักรวาล)
