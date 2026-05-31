@@ -15,5 +15,5 @@
 
 | Thai Term | English Description |
 | --------- | ------------------- |
-| ก้าง ปลา  | Whole fish bone      |
 | กระดูก    | Any other bone       |
+| ก้าง ปลา  | Whole fish bone      |
