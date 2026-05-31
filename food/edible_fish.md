@@ -4,10 +4,12 @@
 | --------- | ------------------------- |
 | ปลากรอบ   | Fried fish eaten in salad |
 | ปาทู      | Mackerel                  |
-| ปลานิล    | Tilapia                   |
-| ปลาส้ม    | Orange fish               |
-| ปลาดุก    | Catfish                   |
-| ปลากระพง  | Barramundi                |
+| ปลา นิล    | Tilapia                   |
+| ปลา ส้ม    | Orange fish               |
+| ปลา ดุก    | Catfish                   |
+| ปลา กระพง  | Barramundi                |
+| ปลา สวาย | Pangasius fish |
+| ปลา สลิด | Snakehead fish |
 
 ## Notes
 
