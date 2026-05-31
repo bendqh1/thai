@@ -31,3 +31,22 @@ Force
 
 จักรยาน 
 จักรวาล (ศูนย์กลางจักรวาล)
+
+## Fai sound words
+
+* หลายไฟ
+* วายฟาย
+* ก๊าซไวไฟ
+
+## Finance
+
+* ธนากร (tana-gon) == Treasurers 
+* ธนาคาร (tana-kan) == banks
+
+## Misc
+* Pam naman and Palm naman
+* มีดบาด and บทบาท
+* Supap for polite, Kunapap quality, Sukapap for health, mitarapap for friendship, and เสรีภาพ for freedom.
+* เรือน and เรื่อง
+* Sanya and sanyan and sanyagam
+* เชิญ as welcome versus ชวน as I invite (but not necessarily pay)
