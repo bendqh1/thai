@@ -10,3 +10,4 @@
 * Ben (เบล): Thai ล becoming น  in final consonant)
 * Bena (เบลล่า): Thai ล  becoming น  in final consonant) 
 * Benzilla (เบนซิลา or เบนซิลล่า): May be related to the Pali/Sanskrit ศีลา (ศีล in Thai)
+* Ben (เบน)
