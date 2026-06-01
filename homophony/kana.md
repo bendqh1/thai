@@ -1,4 +1,5 @@
 | Thai | Phonetic | Meaning | Notes |
 |------|----------|---------|-------|
 | ขนะ | kana | as a |  |
+| คณะ | kana | faculty |  |
 | คะน้า | ka-nha | kale (vegetable) | in Thailand it would normally mean Chinese Kale instead of Curly Kale or other non Chinese variants which we could name as just `คะน้าใบยิก` (Curly Kale) or `เคล` (literally "Kale") |
