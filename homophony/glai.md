@@ -1,7 +1,8 @@
 | Thai | Phonetic | Meaning | Notes |
 |------|----------|---------|-------|
-| ใกล้ | glla^ii | near | long rising-falling sound |
-| ไกล | glaii | far | short rising sound |
+| ใกล้ | glla^ii | near | |
+| ไกล | glaii | far | |
+| กลาย | glaii | become | |
 
 ## Notes
 
