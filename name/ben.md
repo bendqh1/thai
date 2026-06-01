@@ -2,7 +2,7 @@
 * Benjapet (เบญจเพชร): The five diamonds
 * Benjamat (เบญจมาศ)
 * Benjawan (เบญจวรรณ)
-* Benjaporn (เบญจพร)
+* Benjapon (เบญจพร)
 * Benjirat (เบญจรัตน์)
 * Benjaluk (เบญจลักษณ์)
 * Benjapradit (เบญจประดิษฐ์): The five virtues
