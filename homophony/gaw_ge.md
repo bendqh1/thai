@@ -4,6 +4,7 @@
 | เก้า | gaa\/ww | nine | the number 9 |
 | เก่า | ggaww/ | old (object, but not people in plural) | old friend or old chair |
 | กาว | ggaaww | glue |  |
+| ก้าว | ga//ww | pace/step | |
 | แกะ | ge | peel (off) | peeling a fruit or a vegetable etc. |
 | แก่ | ge | old people in plural | kaw pen khon ge (he is old people) |
 
