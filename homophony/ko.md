@@ -2,6 +2,7 @@
 |------|----------|---------|-------|
 | ขอ | kho\ | may I (or may I have, something material) |  |
 | ข้อ | kho/ | point (mindwise) | the term does with philosophy, math, science, rhetoric, etc. |
+| ข้อ | kho/ | classifier for clauses | extensive use in documentation |
 | คอ | kho | neck |  |
 | เคาะ | kho | to knock / tap |  |
 | โค | kho | cow | colloquial: วัว |
