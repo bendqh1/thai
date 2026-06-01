@@ -2,7 +2,7 @@
 |------|----------|---------|-------|
 | ใกล้ | glla^ii | near | |
 | ไกล | glaii | far | |
-| กลาย | glaii | become | |
+| กลาย | glaaii | become | |
 
 ## Notes
 
