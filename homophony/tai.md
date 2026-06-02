@@ -1,6 +1,6 @@
 | Thai        | Meaning                               |
 | ----------- | ------------------------------------- |
-| ไท          | Dai                                   |
+| ไท          | Dai peoples (the broader Thai nation)                                 |
 | ไทย         | Thai                                  |
 | ทาย         | to guess                                 |
 | ท้าย OR สุด   | last                                  |
