@@ -7,3 +7,6 @@
 | กล่อง | glong   | box                        |       |
 | กล้อง | glong    | camera / optical device    |       ||
 
+## Notes
+
+* พูดไทยได้แต่ไม่คล่อง
