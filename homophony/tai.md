@@ -7,7 +7,7 @@
 | ไถ          | to plow                               |
 | ไถ          | to scroll                             |
 | ไถ่         | to extort                             |
-| ถ่าย        | to take a picture                              |
+| ถ่าย        | to take a picture (of something that is mentioned after that word)                            |
 | ไต         | kidneys                               |
 | ไต่         | to climb                              |
 | ใต้         | under                           |
