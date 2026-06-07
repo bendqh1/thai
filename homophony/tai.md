@@ -13,5 +13,7 @@
 | ใต้         | under                           |
 | ใต้         | south                           |
 | ตาย        | died                                  |
+| ต่าย        | a synonym or shorthand for กระต่าย (rabbit)                                  |
 | ประชาธิปไตย | the term is associated with authority |
 | ไท้         | Tai (name)                            |
+
