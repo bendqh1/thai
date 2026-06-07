@@ -3,7 +3,7 @@
 | ไท          | Dai peoples (the broader Thai nation)                                 |
 | ไทย         | Thai                                  |
 | ทาย         | to guess                                 |
-| ท้าย OR สุด   | last                                  |
+| ท้าย   | last                                  | สุด
 | ไถ          | to plow                               |
 | ไถ          | to scroll                             |
 | ไถ่         | to extort                             |
