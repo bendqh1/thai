@@ -1,19 +1,18 @@
-| Thai        | Meaning                               |
-| ----------- | ------------------------------------- |
-| ไท          | Dai peoples (the broader Thai nation)                                 |
-| ไทย         | Thai                                  |
-| ทาย         | to guess                                 |
+| Thai        | Meaning                               | Notes |
+| ----------- | ------------------------------------- | ----- |
+| ไท          | Dai peoples (the broader Thai nation)                                 | |
+| ไทย         | Thai                                  | |
+| ทาย         | to guess                                 | |
 | ท้าย   | last                                  | สุด
-| ไถ          | to plow                               |
-| ไถ          | to scroll                             |
-| ไถ่         | to extort                             |
+| ไถ          | to plow                               | |
+| ไถ          | to scroll                             | |
+| ไถ่         | to extort                             | |
 | ถ่าย        | to take a picture (of something that is mentioned after that word)                            |
 | ไต         | kidneys                               |
-| ไต่         | to climb                              |
-| ใต้         | under                           |
-| ใต้         | south                           |
-| ตาย        | died                                  |
+| ไต่         | to climb                              | |
+| ใต้         | under                           | |
+| ใต้         | south                           | |
+| ตาย        | died                                  | |
 | ต่าย        | a synonym or shorthand for กระต่าย (rabbit)                                  |
-| ประชาธิปไตย | the term is associated with authority |
 | ไท้         | Tai (name)                            |
-
+| ไตย | the term is associated with authority and democracy | as in ประชาธิป |
