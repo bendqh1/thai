@@ -50,3 +50,10 @@ Force
 * เรือน and เรื่อง
 * Sanya and sanyan and sanyagam
 * เชิญ as welcome versus ชวน as I invite (but not necessarily pay)
+
+## NWN words
+
+* สงวน == reserved
+* จำนวน == amount
+ค* ำนวณ == calculates
+ส* ำนวน == idiom
