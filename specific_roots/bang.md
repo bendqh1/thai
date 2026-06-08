@@ -1,33 +1,31 @@
-บ้าง is for questions
-บาง is not for questions (บาง is a plurality marker)
+* บาง is not for questions, rather, บาง is a plurality marker.
+* บ้าง is a question particle.
 
-บาง == thin
-บาง == village
-บาง == some
+## บาง
 
-คุณชอบเล่นแบดมินตันบ้างไหม
-ผมชอบเล่นแบดมินตันบางครั้งครับ
+The word บาง can have several meanings:
 
-Never say บางๆ
-Never say บ้างๆ
+* บาง == some
+* บาง == thin
+* บาง == village
+* บางที == sometines
+* บางที่ == somewhere
 
-—
+Phrase examples
 
-คนบางคน
-ครั้งบางครั้ง
+* คนบางคน
+* ครั้งบางครั้ง
+* ผมชอบเล่นแบดมินตันบางครั้งครับ
 
-—
+## บ้าง
 
-How are you?
-เป็นยังไงบ้าง
-
-What are your symptoms?
-คุณมีอาการอะไรบ้าง
-เป็นอะไรบ้างครับ?
-
-Do you have anything?
 มีอะไรบ้าง
+เป็นยังไงบ้าง
+เป็นอะไรบ้างครับ?
+คุณมีอาการอะไรบ้าง
+คุณชอบเล่นแบดมินตันบ้างไหม
 
-Phrases
-บางที == sometines
-บางที่ == somewhere
+## Notes
+
+* Never say บางๆ
+* Never say บ้างๆ
