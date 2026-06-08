@@ -15,4 +15,5 @@
 | ตาย        | died                                  | |
 | ต่าย        | a synonym or shorthand for กระต่าย (rabbit)                                  |
 | ไท้         | Tai (name)                            |
+| ไท         | Tie (loanword)                            | เนคไท |
 | ไตย | the term is associated with authority and democracy | ประชาธิปไตย |
