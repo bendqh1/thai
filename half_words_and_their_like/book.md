@@ -1,2 +1,0 @@
-* ton-duan |
-* sin-duan |
