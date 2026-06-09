@@ -12,6 +12,9 @@ Some Thai phrases can be very consonental.
 
 ## Ngo Ngu
 
+* งง
+* ง่วง
+* งงง่วง
 * กดเงิน
 * หงุดหงิด
 * น่าหงุดหงิด
