@@ -4,4 +4,3 @@
 | ผา | pha | covering | |
 | ผ้า | pha// | cloth | |
 | ป้า | phah | auntie | |
-| ภา | phhaa | light |  |
