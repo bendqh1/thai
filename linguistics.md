@@ -20,7 +20,7 @@ Some Thai phrases can be very consonental.
 * น่าหงุดหงิด
 * คืนเงินฉันมา
 
-## samak words
+## Samak words
 
 * อาสาสมัคร == volunteer
 * รับสมัคร == accepting workers
