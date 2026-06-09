@@ -1,3 +1,5 @@
+## Lighting
+
 | Thai Term     | English Meaning                                                             |
 | ------------- | --------------------------------------------------------------------------- |
 | โคมไฟ         | lamp (association with fire from ancient times)                             |
