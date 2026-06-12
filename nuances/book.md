@@ -66,6 +66,12 @@ Force
 
 เพื่อนเก่า or เก้าอี้เก่า is not similar to เขาแก่แล้ว or สัตว์แก่แล้ว (this person or is old already or this animal is old already).
 
+## ผู้บริหาร and ผู้จัดการตัวไป
+
+ผู้บริหาร is a superior manager and chief or "on the ground" manager right under the superior manager. 
+
+Both may not be the owner or "shareholder".
+
 ## have you eaten yet
 
 If someone already at we will not ask have you eaten yet (กินข้าวหรือยัง).
