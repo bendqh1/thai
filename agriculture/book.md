@@ -49,7 +49,6 @@
 |  | ยอดอ่อน == sprout | young shoot / sprout |
 |  | ยอดมะพร้าวอ่อน | young coconut shoot |
 |  | ผักคะน้า | Chinese kale |
-|  | ชนิดนี้ | this type |
 |  | ปลูกที่ไหน | where is it grown? |
 |  | ปลูกในประเทศไทยใช่ไหม? | is it grown in Thailand? |
 |  | Saraburi | Saraburi |
@@ -62,9 +61,6 @@
 |  | ผู้จัดการ | manager |
 | **ชนบท** | หมู่บ้านชนบท (mhoobaan chona-bot) | rural village |
 |  | เงาของต้นไม้ | tree shadow |
-| **การกระทำ** | ผมคุกเข่าลง | I kneel down |
-|  | คว้าดินขึ้นมากำ | grab soil and clench it |
-|  | จับแน่นๆ | hold tightly |
 | **Misc** | การปฏิบัติการของรัฐบาล | government operation |
 |  | กะลา | coconut shell |
 |  | ตู้ปลา (อควาเรียม) | aquarium |
