@@ -57,3 +57,41 @@ Force
 * จำนวน == amount
 ค* ำนวณ == calculates
 ส* ำนวน == idiom
+
+## เก่า_and_แก่
+
+เพื่อนเก่า or เก้าอี้เก่า is not similar to เขาแก่แล้ว or สัตว์แก่แล้ว (this person or is old already or this animal is old already).
+
+## have_you_eaten_yet
+
+If someone already at we will not ask have you eaten yet (กินข้าวหรือยัง).
+
+We will ask:
+
+* อิ่มไหม
+* กินอะไรมา
+
+## สิ_and_เถอ
+
+* `เถอะ` → soft suggestion (also to any number of people). Used in group rehtoric.
+* `สิ` → strong suggestion (to any number of people). Used between family members, close friend and couples.
+
+Both encouragements/imperatives can be softened with sentence enders:
+
+* ทำเถอะนะครับ → gentle encouragement, even softer.
+* ทำสิครับ → firm request, but polite.
+
+## being_surprised_of_size_differences_of_anything.md
+
+Seller:
+
+แค่ พันสอง เอง
+
+Buyer:
+
+* ตั้ง พันสอง?
+* พันสอง แน่ะ !!!
+* ตั้ง พันสอง แน่ะ !!!
+
+The buyer is eing surprised from difference of size -- of price in that in case.
+
