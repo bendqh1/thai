@@ -16,3 +16,8 @@
 * vertical scrolling == การเลื่อนแนวตั้ง
 * การเลื่อน == scrolling
 * เลื่อนไป == scroll to
+
+### Notes
+
+ไถฟีดสับๆ
+เลื่อนฟีดสับๆ
