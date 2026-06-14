@@ -27,9 +27,11 @@
 | Daylight and nightlight | แสงวันและแสงกลางคืน    |
 | Sky                     | ท้องฟ้า                |
 | Clouds                  | เมฆ                    |
+| Rainbow                 | ความในใจ               |
+| Thunder and lightening  | แดดส่อง หลบแดด        |
 | Stars                   | ดาว                    |
 | Sunset                  | พระอาทิตย์ตก           |
-| Sunrise                 | พระอาทิตย์ขึ้น         |
+| Sunrise                 | พระอาทิตย์ขึ้น           |
 | Sunlight                | แสงอาทิตย์             |
 | Star light              | แสงดาว                 |
 | Twilight                | พลบค่ำ                 |
@@ -39,6 +41,10 @@
 | Lantern light           | แสงโคมไฟ               |
 | Flashlight              | ไฟฉาย                  |
 | Light pollution         | มลภาวะทางแสง           |
-| Color contrast          | ความต่างของสี          |
-| ตอนแดดจ้า               | Bright sunlight        |
-| แสงสว่างไม่เพียงพอ      | Insufficient light     |
+| Color contrast          | ความต่างของสี            |
+| Bright sunlight         | ตอนแดดจ้า              |
+| Insufficient light      | แสงสว่างไม่เพียงพอ        |
+| Full moon's day         | วันเพ็ญ                 |
+| Full moon               | พระจันทร์เต็มดวง          |
+| Opaque                  | ทึบแสง                 |
+| Dazzling                | ตาพร่า                 |
