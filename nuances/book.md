@@ -136,3 +136,20 @@ This sentence is comprised of the following parts:
 * หน้า
 * น่า
 * กังวล
+
+## สะอาด
+
+ความสะอาด
+Noun (cleanliness)
+
+สะอาด
+Adjective (general)
+
+ทำสะอาด
+Adjective (compliment)
+
+ทำความสะอาด
+Verb
+
+การสะอาด
+Never say
