@@ -38,6 +38,12 @@ Force
 * วายฟาย
 * ก๊าซไวไฟ
 
+## ระเบีย words
+
+ระเบียบ == order
+ระเบียน == record (ลงทะเบียน)
+ระเบียง == balcony
+
 ## Finance
 
 * ธนากร (tana-gon) == Treasurers 
