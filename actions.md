@@ -1,6 +1,6 @@
 ## Point
 
-ชี้
+* ชี้
 
 ## Throw
 
@@ -9,10 +9,19 @@
 
 ## Tie
 
-To tie in Thai
+* มัด (as in มัดผมบัน)
 
-มัด
+## Carry
 
-Used for tieing bags
-
-มัดผมบัน
+| Thai  | Basic meaning              | Typical use                                       |
+| ----- | -------------------------- | ------------------------------------------------- |
+| ถือ   | carry/hold                 | In the hand                                       |
+| หิ้ว  | carry by hand              | Hanging from the hand                             |
+| ยก    | lift/carry                 | Objects requiring lifting                         |
+| แบก   | carry a heavy load         | On the shoulder or back                           |
+| อุ้ม  | carry in the arms          | People, animals, or objects held against the body |
+| สะพาย | carry with a strap         | On the shoulder or back                           |
+| หาบ   | carry with a shoulder pole | Balanced loads                                    |
+| หนีบ  | carry tucked under the arm | Thin objects                                      |
+| ขน    | transport/move             | Goods or items from one place to another          |
+| ทูน   | carry on the head          | Traditional or formal usage                       |
