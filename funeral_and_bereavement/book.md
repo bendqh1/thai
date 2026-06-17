@@ -6,9 +6,8 @@
 | I am sorry (for the death)                                | ฉันเสียใจด้วย                          | Used when expressing sympathy after a death                    |
 | My deepest condolences to X                               | ขอแสดงความเสียใจอย่างสุดซึ้งกับคุณ X | Formal condolence                                              |
 | Funeral chanting by a monk                                  | สวดอภิธรรม                             | Buddhist funeral chanting/service                              |
-| Four monks usually chant, each speaking for a few minutes | ปกติมีพระ 2 รูปสวดอภิธรรม              | Common practice at Thai Buddhist funerals                      |
+| Four monks usually chant, each speaking for a few minutes | ปกติมีพระ 4 รูปสวดอภิธรรม              | Common practice at Thai Buddhist funerals                      |
 | Funeral garments                          | ผ้าห่อศพ                               | Cloth used to wrap the deceased                                |
-| Funeral garments                          | ผ้าบังสกุล                               | Cloth used to wrap the deceased                                |
 | Eulogy                                                    | คำไว้อาลัย                             |                                                                |
 | Eulogy giver / funeral MC                                 | พิธีกรงานศพ                            | More literally "funeral host/master of ceremonies"             |
 | Cremation                                                 | ฌาปนกิจศพ                              | Formal term                                                    |
