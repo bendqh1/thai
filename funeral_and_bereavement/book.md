@@ -4,16 +4,17 @@
 | Funeral                                                   | งานศพ                                  |                                                                |
 | Funeral in Thailand                                       | งานศพในประเทศไทย                       | Typically includes several nights of Buddhist funeral chanting |
 | I am sorry (for the death)                                | ฉันเสียใจด้วย                          | Used when expressing sympathy after a death                    |
-| My condolences to X                                       | ขอแสดงความเสียใจอย่างสุดซึ้งต่อ(คุณ) X | Formal condolence                                              |
-| Funeral sermon by a monk                                  | สวดอภิธรรม                             | Buddhist funeral chanting/service                              |
-| Sermon/chanting session                                   | 1 กัณฑ์                                | Classifier for a sermon or chanting session                    |
-| Four monks usually chant, each speaking for a few minutes | ปกติมีพระ 4 รูปสวดอภิธรรม              | Common practice at Thai Buddhist funerals                      |
-| Funeral garments / burial shroud                          | ผ้าห่อศพ                               | Cloth used to wrap the deceased                                |
+| My deepest condolences to X                               | ขอแสดงความเสียใจอย่างสุดซึ้งกับคุณ X | Formal condolence                                              |
+| Funeral chanting by a monk                                  | สวดอภิธรรม                             | Buddhist funeral chanting/service                              |
+| Four monks usually chant, each speaking for a few minutes | ปกติมีพระ 2 รูปสวดอภิธรรม              | Common practice at Thai Buddhist funerals                      |
+| Funeral garments                          | ผ้าห่อศพ                               | Cloth used to wrap the deceased                                |
+| Funeral garments                          | ผ้าบังสกุล                               | Cloth used to wrap the deceased                                |
 | Eulogy                                                    | คำไว้อาลัย                             |                                                                |
 | Eulogy giver / funeral MC                                 | พิธีกรงานศพ                            | More literally "funeral host/master of ceremonies"             |
 | Cremation                                                 | ฌาปนกิจศพ                              | Formal term                                                    |
 | Cremation                                                 | เผาศพ                                  | Common term                                                    |
-| To cremate                                                | ปลงศพ                                  | Formal/literary                                                |
+| Cremate                                                   | ปลงศพ                                  | Formal/literary                                                |
+| Crematorium                                               | เมรุ                                  |                                                |
 | Crematorium headquarters/office                           | สำนักงานฌาปนสถาน                       |                                                                |
 | Funeral hall                                              | ศาลาจัดงานศพ                           |                                                                |
 | Cemetery                                                  | สุสาน                                  |                                                                |
@@ -33,4 +34,6 @@
 | Stupa/chedi for ashes                                     | เจดีย์ใส่อัฐิ                          | Small chedi or memorial structure used to store ashes          |
 | Morgue                                                    | ห้องเก็บศพ                             |                                                                |
 | Police Hospital                                           | โรงพยาบาลตำรวจ                         |                                                                |
+| Autopsy                                                   | การชันสูตรศพ                          |                                                                |
+| Institute of Medical Forensics                            | สถาบันนิติเวชวิทยา                         |                                                                |
 | Last will and testament                                   | พินัยกรรมฉบับสุดท้าย                   |                                                                |
