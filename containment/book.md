@@ -58,11 +58,6 @@
 | ตู้เสื้อผ้า          | Wardrobe        |
 | ตู้เซฟ             | Safe            |
 
-## Clothe storage
+## Notes
 
-* ราวตากผ้า
-
-## Features
-
-* คุณสมบัติ -- koona-som-bat == features
-* วัตถุดิบ == ingredients
+* ลัง is the classifier of boxes.
