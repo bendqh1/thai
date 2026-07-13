@@ -23,3 +23,9 @@
 | สะพาย | carry with a strap         | On the shoulder or back                           |
 | หนีบ  | carry tucked under the arm | Thin objects                                      |
 | ขน    | transport/move             | Goods or items from one place to another          |
+
+## Misc
+
+* ถอนหญ้า
+* ถอนผมหงอก (ถอนผมขาว)
+* ถอนเงิน == withdraw money
