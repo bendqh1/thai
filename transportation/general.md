@@ -123,6 +123,9 @@
 | Term | Meaning |
 |------|--------|
 | รถยนต์ | Car |
+| รถเก๋ง | Sedan or Hatchback |
+| รถกระบะ | Pickup truck |
+| รถอเนกประสงค์ | SUV |
 | รถสองแถว | Shared pickup transport |
 | รถกระป๊อ / รถกระป๋อง | Small covered vehicle |
 | รถมอเตอร์ไซค์พ่วงข้าง | Sidecar motorcycle |
@@ -161,3 +164,13 @@
 | ใบสั่งจราจร | Traffic ticket |
 | ห้ามยื่นมือออกนอกหน้าต่าง | Do not lean out window |
 | รถติด | Traffic jam |
+
+---
+
+## Misc
+
+---
+
+| Term | Meaning |
+|------|--------|
+| แรงดันลมยาง  | Air filling |
