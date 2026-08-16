@@ -32,19 +32,14 @@ Some words do not require these words
 | ไม่มี `ch` ดังนั้น *peach* จึงกลายเป็น *peace*        | No ch, so *peach* becomes *peace*                            |
 | **คำที่คนไทยหลายคนออกเสียงได้ยาก**                    | Words that are hard for many Thais to pronounce              |
 | **คำศัพท์ทางภาษาศาสตร์ที่สำคัญสำหรับผู้เรียนภาษาไทย** | Linguistic terms that are crucial for Thai language learners |
-| หลักภาษา                                              |                                                              |
-| ภาษาศาสตร์                                            |                                                              |
 | คำนาม                                                 | Noun                                                         |
 | คำกริยา                                               | Verb                                                         |
 | คำสรรพนาม                                             | Pronoun                                                      |
 | คำคุณศัพท์                                            | Adjective                                                    |
 | คำวิเศษณ์                                             | Adverb                                                       |
 | คำบุพบท                                               | Preposition                                                  |
-| บน ใต้ กับ จาก                                        |                                                              |
 | คำสันธาน                                              | Conjunction                                                  |
-| และ หรือ เพราะ แต่ กับ                                |                                                              |
 | คำอุทาน                                               | Interjection                                                 |
-| ว้าว เฮ้ย อุ้ย                                        |                                                              |
 | ลักษณนาม                                              | Classifier                                                   |
 | นาม                                                   | Noun                                                         |
 | กริยา                                                 | Verb                                                         |
@@ -57,11 +52,9 @@ Some words do not require these words
 | คำอักษรนำแท้ vs คำอักษรนำไม่แท้                       | Expressed consonant or nonexpressed consonant                |
 | คำบุพบท                                               | Preposition                                                  |
 | คำเชื่อม                                              | Conjunction                                                  |
-| เยอะเยอะ or เยอะแยะ                                   |                                                              |
 | **Misc**                                              |                                                              |
 | คำ                                                    | Word                                                         |
 | ประโยค                                                | Sentence                                                     |
 | บทความ / ข้อความตอนหนึ่ง                              | Passage                                                      |
 | บท                                                    | Chapter                                                      |
 | ส่วน / ช่วง                                           | Segment                                                      |
-| คำชี้แจง                                              |                                                              |
