@@ -14,9 +14,8 @@ Some words do not require these words
 
 ## Linguistics
 
-| Thai / Phrase                                         | English                                                      |
-| ----------------------------------------------------- | ------------------------------------------------------------ |
-| **Quick facts about Thai linguistics**                |                                                              |
+| Thai                                                | English                                                      |
+| --------------------------------------------------- | ------------------------------------------------------------ |
 | ไม่มี X                                               | No X                                                         |
 | ไม่มี V                                               | No V                                                         |
 | ไม่มี Z                                               | No Z                                                         |
@@ -28,8 +27,8 @@ Some words do not require these words
 | ไม่มี `is` ท้ายคำ                                     | No ending is                                                 |
 | ไม่มี `es` ท้ายคำ                                     | No ending es                                                 |
 | ไม่มี `ce` ท้ายคำ                                     | No ending ce                                                 |
-| ไม่มี `sh` ดังนั้น *wash* จึงกลายเป็น *watch*         | No sh, so *wash* becomes *watch*                             |
-| ไม่มี `ch` ดังนั้น *peach* จึงกลายเป็น *peace*        | No ch, so *peach* becomes *peace*                            |
+| ไม่มี `sh` ดังนั้น *wash* จึงกลายเป็น *watch*             | No sh, so *wash* becomes *watch*                             |
+| ไม่มี `ch` ดังนั้น *peach* จึงกลายเป็น *peace*            | No ch, so *peach* becomes *peace*                            |
 | **คำที่คนไทยหลายคนออกเสียงได้ยาก**                    | Words that are hard for many Thais to pronounce              |
 | **คำศัพท์ทางภาษาศาสตร์ที่สำคัญสำหรับผู้เรียนภาษาไทย** | Linguistic terms that are crucial for Thai language learners |
 | คำนาม                                                 | Noun                                                         |
