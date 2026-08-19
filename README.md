@@ -10,5 +10,3 @@
 |------|---------|-------|
 | ก | ข | | |
 | ก | ข | | |
-
-https://github.com/bendqh1/language/blob/main/lgoic.md
