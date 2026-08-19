@@ -10,8 +10,8 @@
 | `+`       | Plus sign                           | เครื่องหมายบวก      |
 | `-`       | Minus sign                          | เครื่องหมายลบ       |
 | **≈**     | Approximately equal to              | ประมาณเท่ากับ       |
-| `=`       | Equal sign                          | เครื่องหมายเท่ากับ  |
-| `≠`       | Not equal to                        | ไม่เท่ากับ          |
+| `=`       | Equals to                           | เครื่องหมายเท่ากับ  |
+| `≠`       | Not equal                           | ไม่เท่ากับ          |
 | `/`       | Slash / Forward slash               | สแลช                |
 | `\`       | Backslash                           | แบ็กสแลช            |
 | `>`       | Greater-than sign                   | เครื่องหมายมากกว่า  |
