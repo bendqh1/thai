@@ -31,6 +31,7 @@
 | Urn                                                       | โกศ                                    | Decorative container for ashes                                 |
 | Scattering of the ashes                                   | ลอยอังคาร                              | Literally "floating the ashes"                                 |
 | Stupa/chedi for ashes                                     | เจดีย์ใส่อัฐิ                          | Small chedi or memorial structure used to store ashes          |
+| Cause of death                                            | สาเหตุการเสียชีวิต                                                                                          |
 | Morgue                                                    | ห้องเก็บศพ                             |                                                                |
 | Police Hospital                                           | โรงพยาบาลตำรวจ                         |                                                                |
 | Autopsy                                                   | การชันสูตรศพ                          |                                                                |
