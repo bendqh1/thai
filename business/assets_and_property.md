@@ -15,6 +15,9 @@
 |------|-----------------|---------|
 | บ้านเรือนไทย | baan ruean thai | Traditional Thai house |
 | ทาวน์เฮ้าส์ | townhouse | Three or more units in a row house |
+| ตึกแถว    | tug-tew | looks like a town house but the units are more narrow and usually use for commercial activity |
+
+
 | บ้านแฝด | baan faet | Twin house (two homes sharing a wall) |
 | เพนท์เฮ้าส์ | penthouse | Penthouse |
 | บ้านเดี่ยว | baan diao | Single detached house |
