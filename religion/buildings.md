@@ -6,11 +6,10 @@ These are structures or architectural concepts with **ancient Buddhist precedent
 
 | คำศัพท์ | Type | Notes |
 |---|---|---|
+| วัด | Monastic establishment | Buddhist monasteries and monastic compounds are ancient, although the recognizable Thai wat complex is a later Southeast Asian development. |
+| กุฏิ | Monastic building | Residential quarters for monks have ancient Buddhist precedents. The specific Thai kuti form is later. |
 | สถูป | Sacred monument | One of the oldest distinctive forms of Buddhist sacred architecture, originating in the Indian Buddhist world. |
 | เจดีย์ | Sacred monument | The Thai term associated with the Buddhist stupa/reliquary tradition. The underlying concept is ancient, although the Thai architectural form is much later. |
-| วิหาร | Religious / monastic building | Buddhist halls and monastic buildings have ancient Indian precedents. The specific Thai viharn form developed much later. |
-| กุฏิ | Monastic building | Residential quarters for monks have ancient Buddhist precedents. The specific Thai kuti form is later. |
-| วัด | Monastic establishment | Buddhist monasteries and monastic compounds are ancient, although the recognizable Thai wat complex is a later Southeast Asian development. |
 
 ## 2. Later / Specifically Thai Buddhist Architecture
 
