@@ -19,6 +19,7 @@ Some Thai phrases can be very consonental.
 * หงุดหงิด
 * น่าหงุดหงิด
 * คืนเงินฉันมา
+* เงอะงะ (ngo-nga) | clumsy
 
 ## Samak words
 
