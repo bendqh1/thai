@@ -68,3 +68,4 @@
 |  | เขาเลี้ยงปลาในบ่อนี้เหรอ? | do they raise fish in this pond? |
 |  | กอ+plant | cluster for plants |
 |  | กอบัว | one or more lotus plants |
+|  | เมล็ดพันธุ์สำหรับเพาะปลูก | seeds for planting |
