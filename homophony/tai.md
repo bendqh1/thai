@@ -12,7 +12,7 @@
 | ไต่         | to climb                              | |
 | ใต้         | under                           | |
 | ใต้         | south                           | |
-| ตาย        | died                                  | |
+| ตาย        | died                                  | can also be written as ตั่ย as in ว้ายตั่ยแล้ว |
 | ต่าย        | a synonym or shorthand for กระต่าย (rabbit)                                  |
 | ไท้         | Tai (name)                            |
 | ไท         | tie (loanword from English)                            | เนคไท |
