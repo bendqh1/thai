@@ -169,3 +169,5 @@
 | To reduce the chance of forgetting | เพื่อลดโอกาสที่จะลืม |
 | It will help to prevent confusion | มันจะช่วยป้องกันความสับสน |
 | To prevent a mistake | เพื่อป้องกันความผิดพลาดครับ |
+| The taxi driver decided to ask for a fixed price but changed to press the meter (device) | คนขับแท็กซี่ตั้งใจจะขอราคาเหมา แต่เปลี่ยนเป็นกดมิเตอร์ |
+
