@@ -21,3 +21,5 @@
 | กฎหมาย                                           | law                              |
 | ประกันตัว                                        | bail                             |
 | สิทธิยกเว้นวีซ่า                                 | visa exemption                   |
+| กฎระเบียบ                                 | rules and regulations                   |
+
