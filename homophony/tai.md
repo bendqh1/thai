@@ -1,19 +1,19 @@
 | Thai        | Meaning                               | Notes |
 | ----------- | ------------------------------------- | ----- |
-| ไท          | Dai peoples (the broader Thai nation)                                 | |
-| ไทย         | Thai                                  | |
+| ไท          | Dai peoples (the broader Thai nation)    | |
+| ไทย         | Thai                                     | |
 | ทาย         | to guess                                 | |
-| ท้าย   | last                                  | สุดท้าย OR ท้ายซอย |
-| ไถ          | to plow                               | |
-| ไถ          | to scroll                             | |
-| ไถ่         | to extort                             | |
+| ท้าย   | last                                           | สุดท้าย OR ท้ายซอย |
+| ไถ          | to plow                                  | |
+| ไถ          | to scroll obsolete or mistaken           | |
+| ไถ่         | to extort                                 | |
 | ถ่าย        | to take a picture (of something that is mentioned after that word)                            |
-| ไต         | kidneys                               |
+| ไต         | kidneys                               | |
 | ไต่         | to climb                              | |
-| ใต้         | under                           | |
-| ใต้         | south                           | |
+| ใต้         | under                                 | |
+| ใต้         | south                                 | |
 | ตาย        | died                                  | can also be written as ตั่ย as in ว้ายตั่ยแล้ว |
-| ต่าย        | a synonym or shorthand for กระต่าย (rabbit)                                  |
-| ไท้         | Tai (name)                            |
-| ไท         | tie (loanword from English)                            | เนคไท |
+| ต่าย        | a synonym or shorthand for กระต่าย (rabbit) |
+| ไท้         | Tai (name)                            | |
+| ไท         | tie (loanword from English)           | เนคไท |
 | ไตย | the term is associated with authority and democracy | ประชาธิปไตย |
