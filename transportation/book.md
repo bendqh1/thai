@@ -9,7 +9,8 @@
 | Thonburi | ธนบุรี | Western Bangkok side; west bank district |
 | ICONSIAM | ไอคอนสยาม | Major mall; Thonburi side |
 | Siam Paragon | สยามพารากอน | Major mall; central Bangkok |
-| Cinema / movie theater | โรงภาพยนตร์ | |
+| Where are we? | ที่นี่ที่ไหน | |
+| Maze | เขาวงกต | |
 
 ---
 
@@ -56,6 +57,10 @@
 | Route | เส้นทาง | |
 | Connection / links | เชื่อมต่อ | |
 | Parking / stopping point | จุด จอด | A place to stop or park |
+| Let's search for something to eat | ไป หา อะไร กิน กัน | |
+| Send me to X as I want to eat something | ส่งผม ที่ X ผม อยาก กิน อะไร ด้วย |
+| Let's stop at X okay? | แวะ ไป ที่ X ได้ไหม | |
+| Let's stop at a gas station okay? I want to buy some water | แวะ ปั๊ม ได้ ไหม อยาก ซื้อ น้ำ เปล่า ครับ | |
 
 ---
 
