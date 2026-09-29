@@ -18,6 +18,7 @@
 | Marker | ปากกาไวท์บอร์ด |
 | Eraser | ยางลบ / แปรงลบกระดาน |
 | Board | กระดาน |
+| Letter sign | โปสเตอร์ ก-ฮ OR ปสเตอร์พยัญชนะไทย ก-ฮ |
 
 ## Writing & Drawing Tools
 
