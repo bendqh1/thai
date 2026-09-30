@@ -101,6 +101,7 @@
 
 | Thai | Meaning |
 |------|---------|
+| ทำเลที่ตั้ง | Asset location (general) |
 | พื้นที่ | Space / area |
 | มี 2 ทางเข้า | There are two entries ทางเข้าถนน และ ทางเข้าคลอง |
 | คีย์การ์ด | keycard |
