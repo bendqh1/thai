@@ -12,3 +12,5 @@
 | Unemployed (by choice)         | ว่างงาน         |
 | Unemployed (not by choice)     | ตกงาน           |
 | Challenging                    | ท้าทาย          |
+
+* หนึ่ง คน ต่อ หนึ่ง กา == one person per one shift
