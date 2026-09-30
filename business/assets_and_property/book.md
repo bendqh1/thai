@@ -1,6 +1,6 @@
 # Sinsap (Assets / Property Vocabulary)
 
-## 1. Sinsap (สินทรัพย์)
+## Sinsap (สินทรัพย์)
 
 | Thai | Transliteration / Notes | Meaning |
 |------|--------------------------|---------|
@@ -9,15 +9,13 @@
 
 ---
 
-# 2. Property Types
+# Property Types
 
 | Thai | Transliteration | Meaning |
 |------|-----------------|---------|
 | บ้านเรือนไทย | baan ruean thai | Traditional Thai house |
 | ทาวน์เฮ้าส์ | townhouse | Three or more units in a row house |
 | ตึกแถว    | tug-tew | looks like a town house but the units are more narrow and usually use for commercial activity |
-
-
 | บ้านแฝด | baan faet | Twin house (two homes sharing a wall) |
 | เพนท์เฮ้าส์ | penthouse | Penthouse |
 | บ้านเดี่ยว | baan diao | Single detached house |
@@ -28,9 +26,12 @@
 | พระราชวัง | phra ratcha wang | Palace |
 | ปราสาท | prasat | Castle |
 
+* ทาวน์เฮ้าส์ทาวน์โฮม 2 ชั้น
+* ตึกแถว 3-4 ชั้น และ ร้าน
+
 ---
 
-# 3. Other Terms (Housing / Buildings)
+# Other Terms (Housing / Buildings)
 
 | Thai | Transliteration | Meaning |
 |------|-----------------|---------|
@@ -42,7 +43,7 @@
 
 ---
 
-# 4. Industrial Buildings
+# Industrial Buildings
 
 | Thai | Transliteration | Meaning |
 |------|-----------------|---------|
@@ -56,7 +57,7 @@
 
 ---
 
-# 5. Room Types
+# Room Types
 
 | Thai | Transliteration | Meaning |
 |------|-----------------|---------|
@@ -64,6 +65,8 @@
 | ห้องน้ำ | hong nam | Bathroom |
 | ห้องเก็บของ | hong kep khong | Storage room |
 | ห้องนั่งเล่น | hong nang len | Living room |
+| ห้องรับแขก | hong rab kegg | Living room |
+| ห้องเก็บเสบียง | hong geb sabieng | Pantry room |
 | ห้องครัว | hong krua | Kitchen |
 | ห้องซักผ้า | hong sak pha | Laundry room |
 | ห้องกินข้าว | hong kin khao | Dining room |
@@ -83,15 +86,30 @@
 
 ---
 
-# 6. General Concept
+## Property devices
 
-| Thai | Transliteration | Meaning |
-|------|-----------------|---------|
-| พื้นที่ | pheun thi | Space / area |
+| Thai | Meaning |
+|------|---------|
+| เครื่องซักผ้า | clothes washing machine |
+| เครื่องอบผ้า | clothes drying machine |
+| ตู้เติมน้ำ | water filling machine |
+| คเรื่องเติมน้ำ | water filling machine |
 
 ---
 
-# 7. Questions (Useful Phrases)
+# General terms
+
+| Thai | Meaning |
+|------|---------|
+| พื้นที่ | Space / area |
+| มี 2 ทางเข้า | There are two entries ทางเข้าถนน และ ทางเข้าคลอง |
+| คีย์การ์ด | keycard |
+| สแกนหน้า | face scanner (biometrics) |
+| สแกนนิ้ว | fingers scanner (biometrics) |
+
+---
+
+# Questions (Useful Phrases)
 
 | Thai | Transliteration | Meaning |
 |------|-----------------|---------|
@@ -115,3 +133,10 @@
 | มีระบบป้องกันการกระแทกประตูหรือไม่? | mi rabop pongkan pratatu mai? | Door slam protection system? |
 | จ่ายค่าไฟยังไง? | chai khafai yang ngai? | How is electricity billed? |
 | ตามรัฐบาล (สีส้ม) หรือตามมิเตอร์ | tam ratthaban rue tam miter? | Government rate or by meter? |
+| ที่พักอยู่แถวไหน | - | Where is your current place of residence? |
+| บ้านอยู่แถวไหน | - | Where is your home? |
+
+* จ่ายค่าส่วนกลางยังไงครับ
+  * ปีละ 1 ครั้ง
+  * เดือนละ 1 ครั้ง
+  * 6 เดือนละ 1 ครั้ง
