@@ -14,3 +14,8 @@
 | Challenging                    | ท้าทาย          |
 
 * หนึ่ง คน ต่อ หนึ่ง กา == one person per one shift
+
+## Work management
+
+* เตือนด้วยวาจา
+* เตือนด้วยใบเตือน
