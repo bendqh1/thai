@@ -11,3 +11,8 @@
 | I saw a sign on X at Y. | ผมเห็นป้ายบน X ที่ Y |
 | I saw the listing on Facebook. | ผมเห็นประกาศบน Facebook |
 | Can foreigners rent? | คนต่างชาติเช่าได้ไหม |
+| พอดีอยากจะขอสอบถามหน่อยนะครับ | Is it okay that I will ask a question NM, RM, EOS?
+
+NM == Niceness marker
+RM == Respectfulness marker
+EOS == End Of Sentence marker
