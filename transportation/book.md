@@ -33,6 +33,10 @@
 
 | English | Thai | Meaning / Notes |
 |---------|------|-----------------|
+| One-way | ทางเดียว | |
+| Give way / yield | ทางกันได้ | |
+| Please move aside | หลบหน่อยนะครับ | |
+| Could you let me through, please? | ขอทางหน่อยนะครับ | |
 | Heading to / going toward | มุ่งสู่ | Going toward a destination |
 | Direction | ทิศ | |
 | Straight / right / left | ตรง / ขวา / ซ้าย | |
@@ -170,4 +174,11 @@
 | It will help to prevent confusion | มันจะช่วยป้องกันความสับสน |
 | To prevent a mistake | เพื่อป้องกันความผิดพลาดครับ |
 | The taxi driver decided to ask for a fixed price but changed to press the meter (device) | คนขับแท็กซี่ตั้งใจจะขอราคาเหมา แต่เปลี่ยนเป็นกดมิเตอร์ |
-
+| Your friend is going to drop you off at home, right? | เพื่อนจะมาส่งที่บ้านใช่ไหม |
+| Have X drop me off at the front of the house | ให้ X ส่งหน้าบ้านนะ |
+| I'll come to you | เดี๋ยวเราไปหา |
+| I'm here; come over and see me | อยู่ มาหาได้เลย |
+| Come back to eat | กลับมากิน |
+| Go back to eat | กลับไปกิน |
+| Buy something and bring it here for someone | ซื้อมาให้ |
+| Buy something and take it there for someone | ซื้อไปให้ |
