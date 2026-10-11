@@ -18,7 +18,7 @@
 | ตึกแถว    | tug-tew | looks like a town house but the units are more narrow and usually use for commercial activity |
 | บ้านแฝด | baan faet | Twin house (two homes sharing a wall) |
 | เพนท์เฮ้าส์ | penthouse | Penthouse |
-| บ้านสำเร็จรูป | modular house | house made of ready-to-work-with part |
+| บ้านสำเร็จรูป | modular house | house made of a very small number of ready-to-work-with parts |
 | บ้านเดี่ยว | baan diao | Single detached house |
 | หอพัก | hor pak | Dormitory |
 | บังกะโล | bungalow | Bungalow |
