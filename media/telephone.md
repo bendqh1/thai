@@ -13,6 +13,6 @@
 | Can foreigners rent? | คนต่างชาติเช่าได้ไหม |
 | พอดีอยากจะขอสอบถามหน่อยนะครับ | Is it okay that I will ask a question NM, RM, EOS?
 
-NM == Niceness marker
-RM == Respectfulness marker
-EOS == End Of Sentence marker
+* NM == Niceness marker
+* RM == Respectfulness marker
+* EOS == End Of Sentence marker
