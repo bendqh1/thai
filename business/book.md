@@ -1,3 +1,7 @@
+## Reputation
+
+* มันบัตร == business card
+
 ## Bargaining prices
 
 * ต่อรองราคา == bargaining the price
