@@ -1,5 +1,3 @@
-markdown
-```
 # Thai Keyboard Layout Notes
 
 ## Four Modes
@@ -337,4 +335,3 @@ markdown
     ไฬ
     ไฝ
     ไฦ
-```
