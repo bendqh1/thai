@@ -21,23 +21,6 @@
 
 ---
 
-## Thai Character Meanings
-
-| Thai | Meaning |
-|---|---|
-| ชา | Tea \ freezing (as in ka cha) |
-| ตา | Eyes or grandfather |
-| ลา | Goodbye or donkey |
-| พา | Bring a person |
-| ทา | Smear |
-| ฝา | Lid |
-| คา | Stuck |
-| ขา | `\/` |
-| หา | `/\` |
-| ปา | Throw |
-
----
-
 ## Short Vowel: ะ
 
     ภะ
@@ -83,8 +66,6 @@
     ฬะ
     ฝะ
     ฦะ
-
----
 
 ## Long Vowel: า
 
@@ -135,8 +116,6 @@
     ฝา
     ฦๅ
 
----
-
 ## Vowel: ำ
 
     ภำ
@@ -186,8 +165,6 @@
     ฝำ
     ฦำ
 
----
-
 ## Leading Vowel: เ
 
     เภ
@@ -221,8 +198,6 @@
     เฬ
     เฝ
     เฦ
-
----
 
 ## Leading Vowel: แ
 
@@ -270,21 +245,6 @@
     แฬ
     แฝ
     แฦ
-
----
-
-## Common Thai Words and Phrases
-
-- สบายดี
-- อร่อย
-- บ้าน
-- ดีมาก
-- ทำอะไร
-- ไม้นวด
-- นอน
-- ไป
-
----
 
 ## Leading Vowel: ไ
 
