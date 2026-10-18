@@ -2,6 +2,10 @@
 
 * ชี้
 
+## Speak
+
+* กล่าว
+
 ## Throw
 
 * ทิ้ง
@@ -23,6 +27,8 @@
 | สะพาย | carry with a strap         | On the shoulder or back                           |
 | หนีบ  | carry tucked under the arm | Thin objects                                      |
 | ขน    | transport/move             | Goods or items from one place to another          |
+
+* The different kinds of carrying
 
 ## Misc
 
