@@ -1,5 +1,12 @@
-* ฉัน + ทิ้ง + กุญแจ + ไว้ ใน รถ
+## Actions with continuity (two structures)
 
+* ไปไว้
+* เอาไว้
+* วางไว้
+
+## Actions with continuity (three or more structures)
+
+* ฉัน + ทิ้ง + กุญแจ + ไว้ ใน รถ
 * ฉัน + เปิด + ไฟ + ทิ้ง + ไว้
 * ฉัน + เปิด + แอร์ + ทิ้ง + ไว้
 * เขา + ทิ้ง + ฉัน + ไว้ + ตรงนี้ (เขาทิ้งฉัน)
