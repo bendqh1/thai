@@ -1,6 +1,7 @@
 | Character | English name                        | ชื่อภาษาไทย         |
 | --------- | ----------------------------------- | ------------------- |
-| `.`       | Period / Full stop                  | จุด                 |
+| `.`       | Period / Dot / Underdot / Full stop | จุด                 |
+| `·`       | Middle Dot                          | จุดกลาง / จุดกลางบรรทัด (`U+00B7`) |
 | `,`       | Comma                               | คอมมา               |
 | `:`       | Colon                               | โคลอน               |
 | `;`       | Semicolon                           | เซมิโคลอน           |
